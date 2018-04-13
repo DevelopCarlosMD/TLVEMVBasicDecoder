@@ -12,12 +12,12 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.coyotestudio.parserdecodetlvfromemv.tlvtest.TlvObj;
-import com.coyotestudio.parserdecodetlvfromemv.tlvtest.TlvParser;
-import com.coyotestudio.parserdecodetlvfromemv.tlvtest.TlvElements;
-import com.coyotestudio.parserdecodetlvfromemv.tlvtest.Utilities;
+import com.coyotestudio.parserdecodetlvfromemv.basicdecoder.TlvObj;
+import com.coyotestudio.parserdecodetlvfromemv.basicdecoder.TlvParser;
+import com.coyotestudio.parserdecodetlvfromemv.basicdecoder.TlvElements;
+import com.coyotestudio.parserdecodetlvfromemv.basicdecoder.Utilities;
 
-import com.coyotestudio.parserdecodetlvfromemv.tlvtest.TagsEMV;
+import com.coyotestudio.parserdecodetlvfromemv.basicdecoder.TagsEMV;
 
 import java.util.ArrayList;
 

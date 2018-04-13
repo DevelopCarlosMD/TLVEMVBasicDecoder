@@ -1,4 +1,4 @@
-package com.coyotestudio.parserdecodetlvfromemv.tlvtest;
+package com.coyotestudio.parserdecodetlvfromemv.basicdecoder;
 
 import java.util.List;
 
